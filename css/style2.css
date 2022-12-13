@@ -110,7 +110,89 @@ button:focus {
     line-height: 24px;
     color: #777777;
     margin-bottom: 0px; }
-
+    @media (max-width: 360px) {
+      .wd55 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }
+      
+      .wd44 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }  
+        #titulo{
+          margin-right: 2em;
+        }
+        .contenedor{
+          padding-right: 2em;
+        }
+        .contenedor1{
+          padding-right: 5em;
+        }
+    }
+    @media (max-width: 412px) {
+      .wd55 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }
+      
+      .wd44 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }  
+        
+        #titulo{
+          margin-right: 5em;
+        }
+        .contenedor{
+          padding-right: 2em;
+        }
+        .contenedor1{
+          padding-right: 5em;
+        }
+    }
+    @media (max-width: 428px) {
+      .wd55 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }
+      
+      .wd44 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }  
+        
+        #titulo{
+          margin-right: 6em;
+        }
+        .contenedor{
+          padding-right: 2em;
+        }
+        .contenedor1{
+          padding-right: 5em;
+        }
+    }
+    @media (max-width: 810px) {
+      .wd55 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }
+      
+      .wd44 {
+        width: auto !important;
+        float: left;
+        margin-bottom: 30px; }  
+        
+        #titulo{
+          margin-right: 6em;
+        }
+        .contenedor{
+          padding-right: 2em;
+        }
+        .contenedor1{
+          padding-right: 5em;
+        }
+    }
 /* End Main Title Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
