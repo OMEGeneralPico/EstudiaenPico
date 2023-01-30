@@ -70,7 +70,12 @@ button {
   color: #1F1F1F;
   outline: medium none;
 }
-
+a:link, a:visited, a:active {
+  text-decoration:none !important;
+}
+a:hover{
+  color: #00A27F  !important;
+}
 /* line 39, ../../Arafath/CL/january 2020/243.Education/HTML/scss/theme-default.scss */
 h1, h2, h3, h4, h5 {
   font-family: "Poppins", sans-serif;
