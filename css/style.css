@@ -296,8 +296,8 @@ h3 {
 
 /* line 210, ../../Arafath/CL/january 2020/243.Education/HTML/scss/theme-default.scss */
 .section__padding {
-  padding-top: 200px;
-  padding-bottom: 200px;
+  padding-top: 90px;
+  padding-bottom: 30px;
 }
 
 @media (max-width: 767px) {
@@ -2716,7 +2716,7 @@ h3 {
 /* line 13, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_program.scss */
 .popular_program_area .single__program .program__content {
   background: #f8fafe;
-  padding: 55px 40px 60px 40px;
+  padding: 20px 40px 60px 20px;
   position: relative;
 }
 
@@ -2751,7 +2751,7 @@ h3 {
 
 /* line 38, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_program.scss */
 .popular_program_area .single__program .program__content h4 {
-  font-size: 25px;
+  font-size: 23px;
   color: #232637;
   font-family: "Abril Fatface", cursive;
   font-weight: 400;
@@ -3359,7 +3359,7 @@ h3 {
 /* line 1, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_course.scss */
 .latest_coures_area {
   position: relative;
-  padding: 140px 0;
+  padding: 60px 0;
   z-index: 0;
 }
 
@@ -3376,7 +3376,7 @@ h3 {
   background-image: url(../img/causes/1.png);
   left: 0;
   content: '';
-  width: 60%;
+  width: 100%;
   top: 0;
   bottom: 0;
   z-index: -2;
@@ -3411,7 +3411,7 @@ h3 {
   background: #000;
   left: 0;
   content: '';
-  width: 60%;
+  width: 100%;
   top: 0;
   bottom: 0;
   z-index: -1;
@@ -3440,7 +3440,7 @@ h3 {
 }
 
 /* line 50, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_course.scss */
-.latest_coures_area .latest_coures_inner::before {
+/* .latest_coures_area .latest_coures_inner::before {
   position: absolute;
   right: 0;
   width: 40%;
@@ -3450,7 +3450,7 @@ h3 {
   background-size: cover;
   background-position: center center;
   background-image: url(../img/causes/2.png);
-}
+} */
 
 @media (max-width: 767px) {
   /* line 50, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_course.scss */
@@ -3510,8 +3510,8 @@ h3 {
 /* line 96, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_course.scss */
 .latest_coures_area .coures_info .coures_wrap .icon {
   background: #fff;
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
