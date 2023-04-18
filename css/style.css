@@ -880,7 +880,7 @@ h3 {
 /* line 15, ../../Arafath/CL/january 2020/243.Education/HTML/scss/_header.scss */
 .header-area .main-header-area {
   background: #fff;
-  padding: 0 150px;
+  /* padding: 0 150px; */
   -webkit-box-shadow: 0px 2px 2.94px 0.06px rgba(12, 29, 46, 0.05);
   -moz-box-shadow: 0px 2px 2.94px 0.06px rgba(12, 29, 46, 0.05);
   box-shadow: 0px 2px 2.94px 0.06px rgba(12, 29, 46, 0.05);
@@ -1029,7 +1029,7 @@ h3 {
   text-transform: capitalize;
   font-weight: 600;
   display: inline-block;
-  padding: 39px 0px 39px 0px;
+  /* padding: 39px 0px 39px 0px; */
   font-family: "Poppins", sans-serif;
   position: relative;
   text-transform: capitalize;
